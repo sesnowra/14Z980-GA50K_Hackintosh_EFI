@@ -20,6 +20,9 @@ SLEEP
 BATTERY SETUP
 H.W Accelerator
 camera
+sound
+HDMI
+USB3.1
 
 
 this pc not support

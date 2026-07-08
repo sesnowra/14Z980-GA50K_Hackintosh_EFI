@@ -15,18 +15,22 @@ Features
 WI-FI
 BT
 IMESSAGE
-APPLE ACCOUNT
-SLEEP
-BATTERY SETUP
-H.W Accelerator
-camera
-sound
-HDMI
+APPLE ACCOUNT, 
+SLEEP, 
+BATTERY SETUP, 
+H.W Accelerator, 
+camera, 
+sound, 
+HDMI, 
 USB3.1
 
 
-this pc not support
-AIRDROP
-Wireless SIDECAR
-Keyboards FN Keys (updated... coming soon!)
+BUGS
+AIRDROP, 
+Wireless SIDECAR, 
+Keyboards FN Keys (updated... coming soon!), 
 TrackPAD touch (Only half-functional)
+
+
+FIXED BUGS
+-

@@ -23,13 +23,14 @@ camera,
 sound, 
 HDMI, 
 USB3.1,
-TrackPAD touch
+TrackPAD touch,
+FNkeys
 
 BUGS
 AIRDROP, 
-Wireless SIDECAR, 
-Keyboards FN Keys (updated... coming soon!)
+Wireless SIDECAR
 
 
 FIXED BUGS
-TrackPAD touch
+TrackPAD touch, 
+Keyboards FN Keys

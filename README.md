@@ -22,15 +22,14 @@ H.W Accelerator,
 camera, 
 sound, 
 HDMI, 
-USB3.1
-
+USB3.1,
+TrackPAD touch
 
 BUGS
 AIRDROP, 
 Wireless SIDECAR, 
-Keyboards FN Keys (updated... coming soon!), 
-TrackPAD touch (Only half-functional)
+Keyboards FN Keys (updated... coming soon!)
 
 
 FIXED BUGS
--
+TrackPAD touch

@@ -17,7 +17,7 @@ BT
 IMESSAGE
 APPLE ACCOUNT, 
 SLEEP, 
-BATTERY SETUP, 
+Battery Health Indicator, 
 H.W Accelerator, 
 camera, 
 sound, 
@@ -33,4 +33,5 @@ Wireless SIDECAR
 
 FIXED BUGS
 TrackPAD touch, 
-Keyboards FN Keys
+Keyboards FN Keys,
+Battery Health Indicator
